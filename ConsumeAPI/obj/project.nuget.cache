@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqWDrSvsLRsIu7OrXGGxoNGAQJxY+Wv68mLy8fGk31j3OJTYYR++Ac5/XAEn3hzw+StMA0CMAtTWWlapAiFyjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\ConsumeAPI\\ConsumeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onvia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

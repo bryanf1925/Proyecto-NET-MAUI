@@ -1,0 +1,12 @@
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\bin\Debug\net8.0\ConsumeAPI.deps.json
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\bin\Debug\net8.0\ConsumeAPI.dll
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\bin\Debug\net8.0\ConsumeAPI.pdb
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.AssemblyInfo.cs
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.dll
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\refint\ConsumeAPI.dll
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.pdb
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\AppMovilMauiUTN.ConsumeAPI\ConsumeAPI\obj\Debug\net8.0\ref\ConsumeAPI.dll

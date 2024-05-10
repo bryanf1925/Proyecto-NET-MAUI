@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|c:\\users\\onvia\\onedrive - universidad tecnica del norte\\7mo semestre\\aplicaciones moviles\\appmovilmauiutn.consumeapi\\appmovilmauiutn.consumeapi\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|solutionrelative:appmovilmauiutn.consumeapi\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|c:\\users\\onvia\\onedrive - universidad tecnica del norte\\7mo semestre\\aplicaciones moviles\\appmovilmauiutn.consumeapi\\appmovilmauiutn.consumeapi\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|solutionrelative:appmovilmauiutn.consumeapi\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E75BF3-A35D-4360-9520-5AD02201F0E7}|ConsumeAPI\\ConsumeAPI.csproj|c:\\users\\onvia\\onedrive - universidad tecnica del norte\\7mo semestre\\aplicaciones moviles\\appmovilmauiutn.consumeapi\\consumeapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E75BF3-A35D-4360-9520-5AD02201F0E7}|ConsumeAPI\\ConsumeAPI.csproj|solutionrelative:consumeapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|c:\\users\\onvia\\onedrive - universidad tecnica del norte\\7mo semestre\\aplicaciones moviles\\appmovilmauiutn.consumeapi\\appmovilmauiutn.consumeapi\\models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|solutionrelative:appmovilmauiutn.consumeapi\\models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|c:\\users\\onvia\\onedrive - universidad tecnica del norte\\7mo semestre\\aplicaciones moviles\\appmovilmauiutn.consumeapi\\appmovilmauiutn.consumeapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1443296C-0D57-481A-8F09-629342D4E011}|AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI.csproj|solutionrelative:appmovilmauiutn.consumeapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "AppMovilMauiUTN.ConsumeAPI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "AppMovilMauiUTN.ConsumeAPI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:34:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clasificacion.cs",
+              "DocumentMoniker": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\Models\\Clasificacion.cs",
+              "RelativeDocumentMoniker": "AppMovilMauiUTN.ConsumeAPI\\Models\\Clasificacion.cs",
+              "ToolTip": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\Models\\Clasificacion.cs",
+              "RelativeToolTip": "AppMovilMauiUTN.ConsumeAPI\\Models\\Clasificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:26:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\ConsumeAPI\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsumeAPI\\Class1.cs",
+              "ToolTip": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\ConsumeAPI\\Class1.cs",
+              "RelativeToolTip": "ConsumeAPI\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:11:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:07:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\onvia\\OneDrive - Universidad Tecnica del Norte\\7mo Semestre\\Aplicaciones Moviles\\AppMovilMauiUTN.ConsumeAPI\\AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml",
+              "RelativeToolTip": "AppMovilMauiUTN.ConsumeAPI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T04:02:27.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
